@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Playfair Display' , serif; }
+
+.header__logo--img {
+  width: 400px; }
+
+.header__icon {
+  font-size: 21px; }
+
+.header__frase {
+  margin-left: 170px; }
+
+#totalCantidad {
+  background-color: #fa8fb1;
+  width: 10px;
+  height: 18px;
+  font-size: 17px;
+  font-style: normal; }
+
+.header__banner {
+  background-image: url(/3era.Entrega/img/img1.jpg);
+  object-fit: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px; }
+
+.header__promo {
+  background-color: #b3eef0; }
+  .header__promo--p {
+    letter-spacing: 1px; }
+
+.img__carrito {
+  width: 180px; }
+
+.hr {
+  opacity: 1;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  height: 20px !important;
+  color: #b3eef0; }
+
+/* INICIO FOOTER */
+.foot__icon {
+  color: #fa8fb1; }
+
+.logoFoot {
+  width: 250px; }
+
+/* FIN FOOTER */

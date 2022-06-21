@@ -1,0 +1,39 @@
+.header{
+    &__logo{
+        &--img{
+            width: 400px;
+        }
+    }
+    &__icon{
+        font-size: 21px;
+    }
+    &__frase{
+        margin-left: 170px;
+    }
+}
+
+#totalCantidad{
+    background-color: $color-one;
+    width: 10px;
+    height: 18px;
+    font-size: 17px;
+    font-style: normal;
+
+}
+
+.header__banner{
+    background-image: url(/3era.Entrega/img/img1.jpg);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.header{
+    &__promo{
+        background-color: $color-three; 
+        &--p{
+            letter-spacing: 1px;
+        }
+    }
+}
